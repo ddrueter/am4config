@@ -1,0 +1,8 @@
+[
+  { "code": "M214",   "name": "MC-21-400",      "seats": 230 },
+  { "code": "E135",   "name": "ERJ 135ER",      "seats": 37 },
+  { "code": "B738",   "name": "Boeing 737-800", "seats": 184 },
+  { "code": "A725",   "name": "ATR 72-500",     "seats": 64 },
+  { "code": "D910",   "name": "DC-9-10",        "seats": 90 },
+  { "code": "BAE",    "name": "BAe 146-300",    "seats": 112 }
+]
