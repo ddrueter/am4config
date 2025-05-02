@@ -1,5 +1,11 @@
 [
   {
+    "iata": "OAI",
+    "icao": "OAIX",
+    "name": "Bagram Air Base",
+    "country": "Afghanistan"
+  },
+  {
     "iata": "BIN",
     "icao": "OABN",
     "name": "Bamiyan Airport",
@@ -87,6 +93,12 @@
     "iata": "MZR",
     "icao": "OAMS",
     "name": "Mazar I Sharif Airport",
+    "country": "Afghanistan"
+  },
+  {
+    "iata": "OAA",
+    "icao": "OASH",
+    "name": "Shank Air Base",
     "country": "Afghanistan"
   },
   {
@@ -4440,6 +4452,12 @@
     "country": "Brazil"
   },
   {
+    "iata": "SNZ",
+    "icao": "SBSC",
+    "name": "Santa Cruz Air Force Base",
+    "country": "Brazil"
+  },
+  {
     "iata": "GYN",
     "icao": "SBGO",
     "name": "Santa Genoveva Airport",
@@ -4704,6 +4722,12 @@
     "country": "Brazil"
   },
   {
+    "iata": "NKW",
+    "icao": "FJDG",
+    "name": "Diego Garcia Naval Support Facility",
+    "country": "British Indian Ocean Territory"
+  },
+  {
     "iata": "NGD",
     "icao": "TUPA",
     "name": "Captain Auguste George Airport",
@@ -4726,6 +4750,12 @@
     "icao": "WBSB",
     "name": "Brunei International Airport",
     "country": "Brunei"
+  },
+  {
+    "iata": "JAM",
+    "icao": "LBIA",
+    "name": "Bezmer Air Base",
+    "country": "Bulgaria"
   },
   {
     "iata": "BOJ",
@@ -7722,6 +7752,12 @@
     "country": "China"
   },
   {
+    "iata": "AAT",
+    "icao": "ZWAT",
+    "name": "Altay Air Base",
+    "country": "China"
+  },
+  {
     "iata": "AXF",
     "icao": "ZBAL",
     "name": "Alxa Left Banner Bayanhot Airport",
@@ -7743,6 +7779,12 @@
     "iata": "AQG",
     "icao": "ZSAQ",
     "name": "Anqing Tianzhushan Airport",
+    "country": "China"
+  },
+  {
+    "iata": "AOG",
+    "icao": "ZYAS",
+    "name": "Anshan Air Base",
     "country": "China"
   },
   {
@@ -8067,6 +8109,12 @@
     "iata": "CAN",
     "icao": "ZGGG",
     "name": "Guangzhou Baiyun International Airport",
+    "country": "China"
+  },
+  {
+    "iata": "LHK",
+    "icao": "ZHGH",
+    "name": "Guangzhou MR Air Base",
     "country": "China"
   },
   {
@@ -8592,6 +8640,12 @@
     "country": "China"
   },
   {
+    "iata": "RUG",
+    "icao": "ZSRG",
+    "name": "Rugao Air Base",
+    "country": "China"
+  },
+  {
     "iata": "DQA",
     "icao": "ZYDQ",
     "name": "Saertu Airport",
@@ -8655,6 +8709,12 @@
     "iata": "SZX",
     "icao": "ZGSZ",
     "name": "Shenzhen Bao'an International Airport",
+    "country": "China"
+  },
+  {
+    "iata": "RKZ",
+    "icao": "ZURK",
+    "name": "Shigatse Air Base",
     "country": "China"
   },
   {
@@ -8820,6 +8880,12 @@
     "country": "China"
   },
   {
+    "iata": "WHU",
+    "icao": "ZSWU",
+    "name": "Wuhu Air Base",
+    "country": "China"
+  },
+  {
     "iata": "WUZ",
     "icao": "ZGWZ",
     "name": "Wuzhou Changzhoudao Airport",
@@ -8859,6 +8925,12 @@
     "iata": "XIL",
     "icao": "ZBXH",
     "name": "Xilinhot Airport",
+    "country": "China"
+  },
+  {
+    "iata": "XEN",
+    "icao": "ZYXC",
+    "name": "Xingcheng Air Base",
     "country": "China"
   },
   {
@@ -8973,6 +9045,12 @@
     "iata": "YIW",
     "icao": "ZSYW",
     "name": "Yiwu Airport",
+    "country": "China"
+  },
+  {
+    "iata": "YUA",
+    "icao": "ZPYM",
+    "name": "Yuanmou Air Base",
     "country": "China"
   },
   {
@@ -9240,6 +9318,12 @@
     "country": "Colombia"
   },
   {
+    "iata": "PAL",
+    "icao": "SKPQ",
+    "name": "German Olano Air Base",
+    "country": "Colombia"
+  },
+  {
     "iata": "PCR",
     "icao": "SKPC",
     "name": "German Olano Airport",
@@ -9249,6 +9333,12 @@
     "iata": "TLU",
     "icao": "SKTL",
     "name": "Golfo de Morrosquillo Airport",
+    "country": "Colombia"
+  },
+  {
+    "iata": "API",
+    "icao": "SKAP",
+    "name": "Gomez Nino Apiay Air Base",
     "country": "Colombia"
   },
   {
@@ -9459,6 +9549,12 @@
     "iata": "PUU",
     "icao": "SKAS",
     "name": "Tres De Mayo Airport",
+    "country": "Colombia"
+  },
+  {
+    "iata": "TQS",
+    "icao": "SKTQ",
+    "name": "Tres Esquinas Air Base",
     "country": "Colombia"
   },
   {
@@ -10194,6 +10290,12 @@
     "country": "Cuba"
   },
   {
+    "iata": "SNJ",
+    "icao": "MUSJ",
+    "name": "San Julian Air Base",
+    "country": "Cuba"
+  },
+  {
     "iata": "QSN",
     "icao": "MUNB",
     "name": "San Nicolas De Bari Airport",
@@ -10284,6 +10386,12 @@
     "country": "Czech Republic"
   },
   {
+    "iata": "PRV",
+    "icao": "LKPO",
+    "name": "Přerov Air Base",
+    "country": "Czech Republic"
+  },
+  {
     "iata": "VOD",
     "icao": "LKVO",
     "name": "Vodochody Airport",
@@ -10371,6 +10479,12 @@
     "iata": "SQW",
     "icao": "EKSV",
     "name": "Skive Airport",
+    "country": "Denmark"
+  },
+  {
+    "iata": "SKS",
+    "icao": "EKSP",
+    "name": "Skrydstrup Air Base",
     "country": "Denmark"
   },
   {
@@ -11316,6 +11430,12 @@
     "country": "Finland"
   },
   {
+    "iata": "UTI",
+    "icao": "EFUT",
+    "name": "Utti Air Base",
+    "country": "Finland"
+  },
+  {
     "iata": "VAA",
     "icao": "EFVA",
     "name": "Vaasa Airport",
@@ -11550,6 +11670,12 @@
     "country": "France"
   },
   {
+    "iata": "CNG",
+    "icao": "LFBG",
+    "name": "Cognac-Châteaubernard (BA 709) Air Base",
+    "country": "France"
+  },
+  {
     "iata": "CMR",
     "icao": "LFGA",
     "name": "Colmar-Houssen Airport",
@@ -11559,6 +11685,12 @@
     "iata": "CVF",
     "icao": "LFLJ",
     "name": "Courchevel Airport",
+    "country": "France"
+  },
+  {
+    "iata": "CSF",
+    "icao": "LFPC",
+    "name": "Creil Air Base",
     "country": "France"
   },
   {
@@ -11649,6 +11781,12 @@
     "iata": "LRH",
     "icao": "LFBH",
     "name": "La Rochelle-Île de Ré Airport",
+    "country": "France"
+  },
+  {
+    "iata": "LDV",
+    "icao": "LFRJ",
+    "name": "Landivisiau Air Base",
     "country": "France"
   },
   {
@@ -11754,6 +11892,12 @@
     "country": "France"
   },
   {
+    "iata": "MZM",
+    "icao": "LFSF",
+    "name": "Metz-Frescaty (BA 128) Air Base",
+    "country": "France"
+  },
+  {
     "iata": "ETZ",
     "icao": "LFJL",
     "name": "Metz-Nancy-Lorraine Airport",
@@ -11826,6 +11970,18 @@
     "country": "France"
   },
   {
+    "iata": "XOG",
+    "icao": "LFMO",
+    "name": "Orange-Caritat (BA 115) Air Base",
+    "country": "France"
+  },
+  {
+    "iata": "ORE",
+    "icao": "LFOJ",
+    "name": "Orléans-Bricy (BA 123) Air Base",
+    "country": "France"
+  },
+  {
     "iata": "BVA",
     "icao": "LFOB",
     "name": "Paris Beauvais Tillé Airport",
@@ -11883,6 +12039,12 @@
     "iata": "UIP",
     "icao": "LFRQ",
     "name": "Quimper-Cornouaille Airport",
+    "country": "France"
+  },
+  {
+    "iata": "RHE",
+    "icao": "LFSR",
+    "name": "Reims-Champagne (BA 112) Air Base",
     "country": "France"
   },
   {
@@ -11946,6 +12108,12 @@
     "country": "France"
   },
   {
+    "iata": "SOZ",
+    "icao": "LFKS",
+    "name": "Solenzara (BA 126) Air Base",
+    "country": "France"
+  },
+  {
     "iata": "SXB",
     "icao": "LFST",
     "name": "Strasbourg Airport",
@@ -12006,9 +12174,21 @@
     "country": "France"
   },
   {
+    "iata": "VIY",
+    "icao": "LFPV",
+    "name": "Villacoublay-Vélizy (BA 107) Air Base",
+    "country": "France"
+  },
+  {
     "iata": "EPL",
     "icao": "LFSG",
     "name": "Épinal-Mirecourt Airport",
+    "country": "France"
+  },
+  {
+    "iata": "EVX",
+    "icao": "LFOE",
+    "name": "Évreux-Fauville (BA 105) Air Base",
     "country": "France"
   },
   {
@@ -12648,6 +12828,24 @@
     "country": "Germany"
   },
   {
+    "iata": "FEL",
+    "icao": "ETSF",
+    "name": "Fürstenfeldbruck Air Base",
+    "country": "Germany"
+  },
+  {
+    "iata": "GKE",
+    "icao": "ETNG",
+    "name": "Geilenkirchen Air Base",
+    "country": "Germany"
+  },
+  {
+    "iata": "GUT",
+    "icao": "ETUO",
+    "name": "Gütersloh Air Base",
+    "country": "Germany"
+  },
+  {
     "iata": "HAM",
     "icao": "EDDH",
     "name": "Hamburg Airport",
@@ -12657,6 +12855,12 @@
     "iata": "XFW",
     "icao": "EDHI",
     "name": "Hamburg-Finkenwerder Airport",
+    "country": "Germany"
+  },
+  {
+    "iata": "ZNF",
+    "icao": "ETID",
+    "name": "Hanau Army Air Field",
     "country": "Germany"
   },
   {
@@ -12816,6 +13020,12 @@
     "country": "Germany"
   },
   {
+    "iata": "FCN",
+    "icao": "ETMN",
+    "name": "Nordholz Naval Airbase",
+    "country": "Germany"
+  },
+  {
     "iata": "NUE",
     "icao": "EDDN",
     "name": "Nuremberg Airport",
@@ -12837,6 +13047,12 @@
     "iata": "PEF",
     "icao": "EDCP",
     "name": "Peenemünde Airport",
+    "country": "Germany"
+  },
+  {
+    "iata": "RMS",
+    "icao": "ETAR",
+    "name": "Ramstein Air Base",
     "country": "Germany"
   },
   {
@@ -12870,6 +13086,12 @@
     "country": "Germany"
   },
   {
+    "iata": "WBG",
+    "icao": "ETNS",
+    "name": "Schleswig Air Base",
+    "country": "Germany"
+  },
+  {
     "iata": "SZW",
     "icao": "EDOP",
     "name": "Schwerin Parchim Airport",
@@ -12885,6 +13107,12 @@
     "iata": "SGE",
     "icao": "EDGS",
     "name": "Siegerland Airport",
+    "country": "Germany"
+  },
+  {
+    "iata": "SPM",
+    "icao": "ETAD",
+    "name": "Spangdahlem Air Base",
     "country": "Germany"
   },
   {
@@ -12924,6 +13152,12 @@
     "country": "Germany"
   },
   {
+    "iata": "WIE",
+    "icao": "ETOU",
+    "name": "Wiesbaden Army Airfield",
+    "country": "Germany"
+  },
+  {
     "iata": "WVN",
     "icao": "EDWI",
     "name": "Wilhelmshaven-Mariensiel Airport",
@@ -12933,6 +13167,12 @@
     "iata": "ZQW",
     "icao": "EDRZ",
     "name": "Zweibrücken Airport",
+    "country": "Germany"
+  },
+  {
+    "iata": "GHF",
+    "icao": "ETEU",
+    "name": "[Duplicate] Giebelstadt Army Air Field",
     "country": "Germany"
   },
   {
@@ -12972,6 +13212,12 @@
     "country": "Gibraltar"
   },
   {
+    "iata": "AGQ",
+    "icao": "LGAG",
+    "name": "Agrinion Air Base",
+    "country": "Greece"
+  },
+  {
     "iata": "PVK",
     "icao": "LGPZ",
     "name": "Aktion National Airport",
@@ -12981,6 +13227,12 @@
     "iata": "KVA",
     "icao": "LGKV",
     "name": "Alexander the Great International Airport",
+    "country": "Greece"
+  },
+  {
+    "iata": "PYR",
+    "icao": "LGAD",
+    "name": "Andravida Air Base",
     "country": "Greece"
   },
   {
@@ -13386,6 +13638,12 @@
     "country": "Greenland"
   },
   {
+    "iata": "THU",
+    "icao": "BGTL",
+    "name": "Thule Air Base",
+    "country": "Greenland"
+  },
+  {
     "iata": "JUV",
     "icao": "BGUK",
     "name": "Upernavik Airport",
@@ -13444,6 +13702,12 @@
     "icao": "TFFS",
     "name": "Terre-de-Haut Airport",
     "country": "Guadeloupe"
+  },
+  {
+    "iata": "UAM",
+    "icao": "PGUA",
+    "name": "Andersen Air Force Base",
+    "country": "Guam"
   },
   {
     "iata": "GUM",
@@ -13683,6 +13947,12 @@
     "iata": "BHG",
     "icao": "MHBL",
     "name": "Brus Laguna Airport",
+    "country": "Honduras"
+  },
+  {
+    "iata": "XPL",
+    "icao": "MHSC",
+    "name": "Coronel Enrique Soto Cano Air Base",
     "country": "Honduras"
   },
   {
@@ -13944,6 +14214,12 @@
     "country": "India"
   },
   {
+    "iata": "BEK",
+    "icao": "VIBY",
+    "name": "Bareilly Air Force Station",
+    "country": "India"
+  },
+  {
     "iata": "BPM",
     "icao": "VOHY",
     "name": "Begumpet Airport",
@@ -13959,6 +14235,12 @@
     "iata": "BEP",
     "icao": "VOBI",
     "name": "Bellary Airport",
+    "country": "India"
+  },
+  {
+    "iata": "BUP",
+    "icao": "VIBT",
+    "name": "Bhatinda Air Force Station",
     "country": "India"
   },
   {
@@ -13995,6 +14277,12 @@
     "iata": "CCJ",
     "icao": "VOCL",
     "name": "Calicut International Airport",
+    "country": "India"
+  },
+  {
+    "iata": "CBD",
+    "icao": "VOCX",
+    "name": "Car Nicobar Air Force Station",
     "country": "India"
   },
   {
@@ -14523,6 +14811,12 @@
     "iata": "STV",
     "icao": "VASU",
     "name": "Surat Airport",
+    "country": "India"
+  },
+  {
+    "iata": "TJV",
+    "icao": "VOTJ",
+    "name": "Tanjore Air Force Base",
     "country": "India"
   },
   {
@@ -15108,6 +15402,12 @@
     "country": "Indonesia"
   },
   {
+    "iata": "PCB",
+    "icao": "WIHP",
+    "name": "Pondok Cabe Air Base",
+    "country": "Indonesia"
+  },
+  {
     "iata": "TTR",
     "icao": "WAWT",
     "name": "Pongtiku Airport",
@@ -15219,6 +15519,12 @@
     "iata": "CGK",
     "icao": "WIII",
     "name": "Soekarno-Hatta International Airport",
+    "country": "Indonesia"
+  },
+  {
+    "iata": "MES",
+    "icao": "WIMK",
+    "name": "Soewondo Air Force Base",
     "country": "Indonesia"
   },
   {
@@ -15810,9 +16116,21 @@
     "country": "Iran"
   },
   {
+    "iata": "IQA",
+    "icao": "ORAA",
+    "name": "Al Asad Air Base",
+    "country": "Iraq"
+  },
+  {
     "iata": "NJF",
     "icao": "ORNI",
     "name": "Al Najaf International Airport",
+    "country": "Iraq"
+  },
+  {
+    "iata": "TQD",
+    "icao": "ORAT",
+    "name": "Al Taqaddum Air Base",
     "country": "Iraq"
   },
   {
@@ -15837,6 +16155,12 @@
     "iata": "XQC",
     "icao": "ORBD",
     "name": "Joint Base Balad",
+    "country": "Iraq"
+  },
+  {
+    "iata": "KIK",
+    "icao": "ORKK",
+    "name": "Kirkuk Air Base",
     "country": "Iraq"
   },
   {
@@ -15990,9 +16314,21 @@
     "country": "Israel"
   },
   {
+    "iata": "VTM",
+    "icao": "LLNV",
+    "name": "Nevatim Air Base",
+    "country": "Israel"
+  },
+  {
     "iata": "VDA",
     "icao": "LLOV",
     "name": "Ovda International Airport",
+    "country": "Israel"
+  },
+  {
+    "iata": "MIP",
+    "icao": "LLRM",
+    "name": "Ramon Air Base",
     "country": "Israel"
   },
   {
@@ -16023,6 +16359,12 @@
     "iata": "AOT",
     "icao": "LIMW",
     "name": "Aosta Airport",
+    "country": "Italy"
+  },
+  {
+    "iata": "AVB",
+    "icao": "LIPA",
+    "name": "Aviano Air Base",
     "country": "Italy"
   },
   {
@@ -16092,6 +16434,12 @@
     "country": "Italy"
   },
   {
+    "iata": "DCI",
+    "icao": "LIED",
+    "name": "Decimomannu Air Base",
+    "country": "Italy"
+  },
+  {
     "iata": "PMO",
     "icao": "LICJ",
     "name": "Falcone–Borsellino Airport",
@@ -16122,6 +16470,12 @@
     "country": "Italy"
   },
   {
+    "iata": "GRS",
+    "icao": "LIRS",
+    "name": "Grosseto Air Base",
+    "country": "Italy"
+  },
+  {
     "iata": "BGY",
     "icao": "LIME",
     "name": "Il Caravaggio International Airport",
@@ -16137,6 +16491,18 @@
     "iata": "LMP",
     "icao": "LICD",
     "name": "Lampedusa Airport",
+    "country": "Italy"
+  },
+  {
+    "iata": "QLT",
+    "icao": "LIRL",
+    "name": "Latina Air Base",
+    "country": "Italy"
+  },
+  {
+    "iata": "LCC",
+    "icao": "LIBN",
+    "name": "Lecce Galatina Air Base",
     "country": "Italy"
   },
   {
@@ -16236,9 +16602,21 @@
     "country": "Italy"
   },
   {
+    "iata": "QLP",
+    "icao": "LIQW",
+    "name": "Sarzana-Luni Air Base",
+    "country": "Italy"
+  },
+  {
     "iata": "SAY",
     "icao": "LIQS",
     "name": "Siena-Ampugnano Airport",
+    "country": "Italy"
+  },
+  {
+    "iata": "NSY",
+    "icao": "LICZ",
+    "name": "Sigonella Navy Air Base",
     "country": "Italy"
   },
   {
@@ -16374,6 +16752,12 @@
     "country": "Japan"
   },
   {
+    "iata": "NJA",
+    "icao": "RJTA",
+    "name": "Atsugi Naval Air Facility",
+    "country": "Japan"
+  },
+  {
     "iata": "NGO",
     "icao": "RJGG",
     "name": "Chubu Centrair International Airport",
@@ -16470,6 +16854,12 @@
     "country": "Japan"
   },
   {
+    "iata": "IWK",
+    "icao": "RJOI",
+    "name": "Iwakuni Marine Corps Air Station",
+    "country": "Japan"
+  },
+  {
     "iata": "IWJ",
     "icao": "RJOW",
     "name": "Iwami Airport",
@@ -16485,6 +16875,12 @@
     "iata": "IZO",
     "icao": "RJOC",
     "name": "Izumo Airport",
+    "country": "Japan"
+  },
+  {
+    "iata": "DNA",
+    "icao": "RODN",
+    "name": "Kadena Air Base",
     "country": "Japan"
   },
   {
@@ -16593,6 +16989,12 @@
     "iata": "MMD",
     "icao": "ROMD",
     "name": "Minami-Daito Airport",
+    "country": "Japan"
+  },
+  {
+    "iata": "MSJ",
+    "icao": "RJSM",
+    "name": "Misawa Air Base",
     "country": "Japan"
   },
   {
@@ -16806,6 +17208,12 @@
     "country": "Japan"
   },
   {
+    "iata": "TKS",
+    "icao": "RJOS",
+    "name": "Tokushima Airport/JMSDF Air Base",
+    "country": "Japan"
+  },
+  {
     "iata": "HND",
     "icao": "RJTT",
     "name": "Tokyo Haneda International Airport",
@@ -16851,6 +17259,12 @@
     "iata": "UBJ",
     "icao": "RJDC",
     "name": "Yamaguchi Ube Airport",
+    "country": "Japan"
+  },
+  {
+    "iata": "OKO",
+    "icao": "RJTY",
+    "name": "Yokota Air Base",
     "country": "Japan"
   },
   {
@@ -17286,6 +17700,12 @@
     "country": "Kiribati"
   },
   {
+    "iata": "XIJ",
+    "icao": "OKAJ",
+    "name": "Ahmed Al Jaber Air Base",
+    "country": "Kuwait"
+  },
+  {
     "iata": "KWI",
     "icao": "OKBK",
     "name": "Kuwait International Airport",
@@ -17418,6 +17838,12 @@
     "country": "Lebanon"
   },
   {
+    "iata": "KYE",
+    "icao": "OLKA",
+    "name": "Rene Mouawad Air Base",
+    "country": "Lebanon"
+  },
+  {
     "iata": "MSU",
     "icao": "FXMM",
     "name": "Moshoeshoe I International Airport",
@@ -17541,6 +17967,12 @@
     "iata": "PLQ",
     "icao": "EYPA",
     "name": "Palanga International Airport",
+    "country": "Lithuania"
+  },
+  {
+    "iata": "PNV",
+    "icao": "EYPP",
+    "name": "Panevėžys Air Base",
     "country": "Lithuania"
   },
   {
@@ -18220,6 +18652,12 @@
     "icao": "LMMG",
     "name": "Xewkija Heliport",
     "country": "Malta"
+  },
+  {
+    "iata": "KWA",
+    "icao": "PKWA",
+    "name": "Bucholz Army Air Field",
+    "country": "Marshall Islands"
   },
   {
     "iata": "ENT",
@@ -19482,6 +19920,18 @@
     "country": "Netherlands"
   },
   {
+    "iata": "GLZ",
+    "icao": "EHGR",
+    "name": "Gilze Rijen Air Base",
+    "country": "Netherlands"
+  },
+  {
+    "iata": "LWR",
+    "icao": "EHLW",
+    "name": "Leeuwarden Air Base",
+    "country": "Netherlands"
+  },
+  {
     "iata": "LEY",
     "icao": "EHLE",
     "name": "Lelystad Airport",
@@ -19500,9 +19950,27 @@
     "country": "Netherlands"
   },
   {
+    "iata": "UTC",
+    "icao": "EHSB",
+    "name": "Soesterberg Air Base",
+    "country": "Netherlands"
+  },
+  {
     "iata": "ENS",
     "icao": "EHTW",
     "name": "Twente Airport",
+    "country": "Netherlands"
+  },
+  {
+    "iata": "LID",
+    "icao": "EHVB",
+    "name": "Valkenburg Naval Air Base",
+    "country": "Netherlands"
+  },
+  {
+    "iata": "WOE",
+    "icao": "EHWO",
+    "name": "Woensdrecht Air Base",
     "country": "Netherlands"
   },
   {
@@ -20256,6 +20724,12 @@
     "country": "Norway"
   },
   {
+    "iata": "QKX",
+    "icao": "ENKA",
+    "name": "Kautokeino Air Base",
+    "country": "Norway"
+  },
+  {
     "iata": "KKN",
     "icao": "ENKR",
     "name": "Kirkenes Airport (Høybuktmoen)",
@@ -20502,6 +20976,18 @@
     "country": "Oman"
   },
   {
+    "iata": "KHS",
+    "icao": "OOKB",
+    "name": "Khasab Air Base",
+    "country": "Oman"
+  },
+  {
+    "iata": "MSH",
+    "icao": "OOMA",
+    "name": "Masirah Air Base",
+    "country": "Oman"
+  },
+  {
     "iata": "MCT",
     "icao": "OOMS",
     "name": "Muscat International Airport",
@@ -20523,6 +21009,12 @@
     "iata": "OHS",
     "icao": "OOSH",
     "name": "Sohar Airport",
+    "country": "Oman"
+  },
+  {
+    "iata": "TTH",
+    "icao": "OOTH",
+    "name": "Thumrait Air Base",
     "country": "Oman"
   },
   {
@@ -20628,6 +21120,18 @@
     "country": "Pakistan"
   },
   {
+    "iata": "MWD",
+    "icao": "OPMI",
+    "name": "Mianwali Air Base",
+    "country": "Pakistan"
+  },
+  {
+    "iata": "ATG",
+    "icao": "OPMS",
+    "name": "Minhas Air Base",
+    "country": "Pakistan"
+  },
+  {
     "iata": "MJD",
     "icao": "OPMJ",
     "name": "Moenjodaro Airport",
@@ -20637,6 +21141,12 @@
     "iata": "MUX",
     "icao": "OPMT",
     "name": "Multan International Airport",
+    "country": "Pakistan"
+  },
+  {
+    "iata": "SGI",
+    "icao": "OPSR",
+    "name": "Mushaf Air Base",
     "country": "Pakistan"
   },
   {
@@ -20709,6 +21219,12 @@
     "iata": "SYW",
     "icao": "OPSN",
     "name": "Sehwan Sharif Airport",
+    "country": "Pakistan"
+  },
+  {
+    "iata": "JAG",
+    "icao": "OPJA",
+    "name": "Shahbaz Air Base",
     "country": "Pakistan"
   },
   {
@@ -21690,6 +22206,12 @@
     "country": "Poland"
   },
   {
+    "iata": "QYD",
+    "icao": "EPOK",
+    "name": "Oksywie Military Air Base",
+    "country": "Poland"
+  },
+  {
     "iata": "SZY",
     "icao": "EPSY",
     "name": "Olsztyn-Mazury Airport",
@@ -21705,6 +22227,12 @@
     "iata": "RDO",
     "icao": "EPRA",
     "name": "Radom Airport",
+    "country": "Poland"
+  },
+  {
+    "iata": "OSP",
+    "icao": "EPSK",
+    "name": "Redzikowo Air Base",
     "country": "Poland"
   },
   {
@@ -21741,6 +22269,18 @@
     "iata": "VSE",
     "icao": "LPVZ",
     "name": "Aerodromo Goncalves Lobato (Viseu Airport)",
+    "country": "Portugal"
+  },
+  {
+    "iata": "AVR",
+    "icao": "LPAR",
+    "name": "Alverca Air Base",
+    "country": "Portugal"
+  },
+  {
+    "iata": "BYJ",
+    "icao": "LPBJ",
+    "name": "Beja Airport / Airbase",
     "country": "Portugal"
   },
   {
@@ -21819,6 +22359,12 @@
     "iata": "FNC",
     "icao": "LPMA",
     "name": "Madeira Airport",
+    "country": "Portugal"
+  },
+  {
+    "iata": "QLR",
+    "icao": "LPMR",
+    "name": "Monte Real Air Base",
     "country": "Portugal"
   },
   {
@@ -21916,6 +22462,12 @@
     "icao": "TJCG",
     "name": "Vieques Airport",
     "country": "Puerto Rico"
+  },
+  {
+    "iata": "XJD",
+    "icao": "OTBH",
+    "name": "Al Udeid Air Base",
+    "country": "Qatar"
   },
   {
     "iata": "DIA",
@@ -22212,6 +22764,12 @@
     "country": "Russia"
   },
   {
+    "iata": "CKL",
+    "icao": "UUMU",
+    "name": "Chkalovskiy Air Base",
+    "country": "Russia"
+  },
+  {
     "iata": "CKH",
     "icao": "UESO",
     "name": "Chokurdakh Airport",
@@ -22467,6 +23025,12 @@
     "iata": "DEE",
     "icao": "UHSM",
     "name": "Mendeleyevo Airport",
+    "country": "Russia"
+  },
+  {
+    "iata": "KLD",
+    "icao": "UUEM",
+    "name": "Migalovo Air Base",
     "country": "Russia"
   },
   {
@@ -23292,6 +23856,12 @@
     "country": "Saudi Arabia"
   },
   {
+    "iata": "DHA",
+    "icao": "OEDR",
+    "name": "King Abdulaziz Air Base",
+    "country": "Saudi Arabia"
+  },
+  {
     "iata": "JED",
     "icao": "OEJN",
     "name": "King Abdulaziz International Airport",
@@ -23301,6 +23871,12 @@
     "iata": "DMM",
     "icao": "OEDF",
     "name": "King Fahd International Airport",
+    "country": "Saudi Arabia"
+  },
+  {
+    "iata": "KMX",
+    "icao": "OEKM",
+    "name": "King Khaled Air Base",
     "country": "Saudi Arabia"
   },
   {
@@ -23346,9 +23922,21 @@
     "country": "Saudi Arabia"
   },
   {
+    "iata": "AKH",
+    "icao": "OEPS",
+    "name": "Prince Sultan Air Base",
+    "country": "Saudi Arabia"
+  },
+  {
     "iata": "RAH",
     "icao": "OERF",
     "name": "Rafha Domestic Airport",
+    "country": "Saudi Arabia"
+  },
+  {
+    "iata": "XXN",
+    "icao": "OERY",
+    "name": "Riyadh Air Base",
     "country": "Saudi Arabia"
   },
   {
@@ -23454,6 +24042,12 @@
     "country": "Senegal"
   },
   {
+    "iata": "BJY",
+    "icao": "LYBT",
+    "name": "Batajnica Air Base",
+    "country": "Serbia"
+  },
+  {
     "iata": "BEG",
     "icao": "LYBE",
     "name": "Belgrade Nikola Tesla Airport",
@@ -23544,6 +24138,12 @@
     "country": "Sierra Leone"
   },
   {
+    "iata": "QPG",
+    "icao": "WSAP",
+    "name": "Paya Lebar Air Base",
+    "country": "Singapore"
+  },
+  {
     "iata": "XSP",
     "icao": "WSSL",
     "name": "Seletar Airport",
@@ -23553,6 +24153,12 @@
     "iata": "SIN",
     "icao": "WSSS",
     "name": "Singapore Changi Airport",
+    "country": "Singapore"
+  },
+  {
+    "iata": "TGA",
+    "icao": "WSAT",
+    "name": "Tengah Air Base",
     "country": "Singapore"
   },
   {
@@ -23886,6 +24492,12 @@
     "country": "South Africa"
   },
   {
+    "iata": "HDS",
+    "icao": "FAHS",
+    "name": "Hoedspruit Air Force Base Airport",
+    "country": "South Africa"
+  },
+  {
     "iata": "KMH",
     "icao": "FAKU",
     "name": "Johan Pienaar Airport",
@@ -24138,6 +24750,12 @@
     "country": "South Africa"
   },
   {
+    "iata": "WKF",
+    "icao": "FAWK",
+    "name": "Waterkloof Air Force Base",
+    "country": "South Africa"
+  },
+  {
     "iata": "PRY",
     "icao": "FAWB",
     "name": "Wonderboom Airport",
@@ -24148,6 +24766,12 @@
     "icao": "FADQ",
     "name": "Zulu Inyala Airport",
     "country": "South Africa"
+  },
+  {
+    "iata": "CJJ",
+    "icao": "RKTU",
+    "name": "Cheongju International Airport/Cheongju Air Base (K-59/G-513)",
+    "country": "South Korea"
   },
   {
     "iata": "TAE",
@@ -24204,6 +24828,18 @@
     "country": "South Korea"
   },
   {
+    "iata": "CHF",
+    "icao": "RKPE",
+    "name": "Jinhae Airbase/Airport (G-813/K-10)",
+    "country": "South Korea"
+  },
+  {
+    "iata": "KUV",
+    "icao": "RKJK",
+    "name": "Kunsan Air Base",
+    "country": "South Korea"
+  },
+  {
     "iata": "MPK",
     "icao": "RKJM",
     "name": "Mokpo Heliport",
@@ -24216,9 +24852,33 @@
     "country": "South Korea"
   },
   {
+    "iata": "OSN",
+    "icao": "RKSO",
+    "name": "Osan Air Base",
+    "country": "South Korea"
+  },
+  {
     "iata": "KPO",
     "icao": "RKTH",
     "name": "Pohang Airport (G-815/K-3)",
+    "country": "South Korea"
+  },
+  {
+    "iata": "HIN",
+    "icao": "RKPS",
+    "name": "Sacheon Air Base/Airport",
+    "country": "South Korea"
+  },
+  {
+    "iata": "HMY",
+    "icao": "RKTP",
+    "name": "Seosan Air Base",
+    "country": "South Korea"
+  },
+  {
+    "iata": "SSN",
+    "icao": "RKSM",
+    "name": "Seoul Air Base (K-16)",
     "country": "South Korea"
   },
   {
@@ -24234,9 +24894,21 @@
     "country": "South Korea"
   },
   {
+    "iata": "WJU",
+    "icao": "RKNW",
+    "name": "Wonju/Hoengseong Air Base (K-38/K-46)",
+    "country": "South Korea"
+  },
+  {
     "iata": "YNY",
     "icao": "RKNY",
     "name": "Yangyang International Airport",
+    "country": "South Korea"
+  },
+  {
+    "iata": "YEC",
+    "icao": "RKTY",
+    "name": "Yecheon Airbase",
     "country": "South Korea"
   },
   {
@@ -24444,6 +25116,12 @@
     "country": "Spain"
   },
   {
+    "iata": "OZP",
+    "icao": "LEMO",
+    "name": "Moron Air Base",
+    "country": "Spain"
+  },
+  {
     "iata": "AGP",
     "icao": "LEMG",
     "name": "Málaga Airport",
@@ -24471,6 +25149,18 @@
     "iata": "RMU",
     "icao": "LEMI",
     "name": "Región de Murcia International Airport",
+    "country": "Spain"
+  },
+  {
+    "iata": "REU",
+    "icao": "LERS",
+    "name": "Reus Air Base",
+    "country": "Spain"
+  },
+  {
+    "iata": "ROZ",
+    "icao": "LERT",
+    "name": "Rota Naval Station Airport",
     "country": "Spain"
   },
   {
@@ -24564,9 +25254,21 @@
     "country": "Spain"
   },
   {
+    "iata": "ZAZ",
+    "icao": "LEZG",
+    "name": "Zaragoza Air Base",
+    "country": "Spain"
+  },
+  {
     "iata": "ADP",
     "icao": "VCCG",
     "name": "Ampara Airport",
+    "country": "Sri Lanka"
+  },
+  {
+    "iata": "ACJ",
+    "icao": "VCCA",
+    "name": "Anuradhapura Air Force Base",
     "country": "Sri Lanka"
   },
   {
@@ -24594,6 +25296,12 @@
     "country": "Sri Lanka"
   },
   {
+    "iata": "HIM",
+    "icao": "VCCH",
+    "name": "Hingurakgoda Air Force Base",
+    "country": "Sri Lanka"
+  },
+  {
     "iata": "JAF",
     "icao": "VCCJ",
     "name": "Kankesanturai Airport",
@@ -24609,6 +25317,12 @@
     "iata": "HRI",
     "icao": "VCRI",
     "name": "Mattala Rajapaksa International Airport",
+    "country": "Sri Lanka"
+  },
+  {
+    "iata": "GIU",
+    "icao": "VCCS",
+    "name": "Sigiriya Air Force Base",
     "country": "Sri Lanka"
   },
   {
@@ -25098,6 +25812,12 @@
     "country": "Switzerland"
   },
   {
+    "iata": "EML",
+    "icao": "LSME",
+    "name": "Emmen Air Base",
+    "country": "Switzerland"
+  },
+  {
     "iata": "GVA",
     "icao": "LSGG",
     "name": "Geneva Cointrin International Airport",
@@ -25107,6 +25827,12 @@
     "iata": "ZHI",
     "icao": "LSZG",
     "name": "Grenchen Airport",
+    "country": "Switzerland"
+  },
+  {
+    "iata": "ZIN",
+    "icao": "LSMI",
+    "name": "Interlaken Air Base",
     "country": "Switzerland"
   },
   {
@@ -25176,6 +25902,12 @@
     "country": "Syria"
   },
   {
+    "iata": "DEZ",
+    "icao": "OSDZ",
+    "name": "Deir ez-Zor Air Base",
+    "country": "Syria"
+  },
+  {
     "iata": "KAC",
     "icao": "OSKL",
     "name": "Kamishly Airport",
@@ -25203,6 +25935,12 @@
     "iata": "HCN",
     "icao": "RCKW",
     "name": "Hengchun Airport",
+    "country": "Taiwan"
+  },
+  {
+    "iata": "HSZ",
+    "icao": "RCPO",
+    "name": "Hsinchu Air Base",
     "country": "Taiwan"
   },
   {
@@ -25974,6 +26712,18 @@
     "country": "Turkey"
   },
   {
+    "iata": "ESK",
+    "icao": "LTBI",
+    "name": "Eskişehir Air Base",
+    "country": "Turkey"
+  },
+  {
+    "iata": "ANK",
+    "icao": "LTAD",
+    "name": "Etimesgut Air Base",
+    "country": "Turkey"
+  },
+  {
     "iata": "GZT",
     "icao": "LTAJ",
     "name": "Gaziantep International Airport",
@@ -26175,6 +26925,12 @@
     "iata": "IGL",
     "icao": "LTBL",
     "name": "Çiğli Airport",
+    "country": "Turkey"
+  },
+  {
+    "iata": "UAB",
+    "icao": "LTAG",
+    "name": "İncirlik Air Base",
     "country": "Turkey"
   },
   {
@@ -26496,9 +27252,21 @@
     "country": "United Arab Emirates"
   },
   {
+    "iata": "DHF",
+    "icao": "OMAM",
+    "name": "Al Dhafra Air Base",
+    "country": "United Arab Emirates"
+  },
+  {
     "iata": "DWC",
     "icao": "OMDW",
     "name": "Al Maktoum International Airport",
+    "country": "United Arab Emirates"
+  },
+  {
+    "iata": "NHD",
+    "icao": "OMDM",
+    "name": "Al Minhad Air Base",
     "country": "United Arab Emirates"
   },
   {
@@ -27276,6 +28044,12 @@
     "country": "United States"
   },
   {
+    "iata": "NGZ",
+    "icao": "KNGZ",
+    "name": "Alameda Naval Air Station",
+    "country": "United States"
+  },
+  {
     "iata": "ALM",
     "icao": "KALM",
     "name": "Alamogordo White Sands Regional Airport",
@@ -27342,6 +28116,12 @@
     "country": "United States"
   },
   {
+    "iata": "BIG",
+    "icao": "PABI",
+    "name": "Allen Army Airfield",
+    "country": "United States"
+  },
+  {
     "iata": "AIA",
     "icao": "KAIA",
     "name": "Alliance Municipal Airport",
@@ -27363,6 +28143,12 @@
     "iata": "AOO",
     "icao": "KAOO",
     "name": "Altoona Blair County Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "LTS",
+    "icao": "KLTS",
+    "name": "Altus Air Force Base",
     "country": "United States"
   },
   {
@@ -27600,6 +28386,12 @@
     "country": "United States"
   },
   {
+    "iata": "BAD",
+    "icao": "KBAD",
+    "name": "Barksdale Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "HYA",
     "icao": "KHYA",
     "name": "Barnstable Municipal Boardman Polando Field",
@@ -27645,6 +28437,12 @@
     "iata": "BBC",
     "icao": "KBYY",
     "name": "Bay City Municipal Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "BAB",
+    "icao": "KBAB",
+    "name": "Beale Air Force Base",
     "country": "United States"
   },
   {
@@ -27726,9 +28524,21 @@
     "country": "United States"
   },
   {
+    "iata": "BYS",
+    "icao": "KBYS",
+    "name": "Bicycle Lake Army Air Field",
+    "country": "United States"
+  },
+  {
     "iata": "BMX",
     "icao": "PABM",
     "name": "Big Mountain Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "BIF",
+    "icao": "KBIF",
+    "name": "Biggs Army Air Field (Fort Bliss)",
     "country": "United States"
   },
   {
@@ -27882,6 +28692,12 @@
     "country": "United States"
   },
   {
+    "iata": "BSF",
+    "icao": "PHSF",
+    "name": "Bradshaw Army Airfield",
+    "country": "United States"
+  },
+  {
     "iata": "BRD",
     "icao": "KBRD",
     "name": "Brainerd Lakes Regional Airport",
@@ -27942,6 +28758,12 @@
     "country": "United States"
   },
   {
+    "iata": "FRN",
+    "icao": "PAFR",
+    "name": "Bryant Army Heliport",
+    "country": "United States"
+  },
+  {
     "iata": "BCE",
     "icao": "KBCE",
     "name": "Bryce Canyon Airport",
@@ -27963,6 +28785,12 @@
     "iata": "BKC",
     "icao": "PABL",
     "name": "Buckland Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "BFK",
+    "icao": "KBKF",
+    "name": "Buckley Air Force Base",
     "country": "United States"
   },
   {
@@ -28038,9 +28866,21 @@
     "country": "United States"
   },
   {
+    "iata": "CVS",
+    "icao": "KCVS",
+    "name": "Cannon Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "CNY",
     "icao": "KCNY",
     "name": "Canyonlands Field",
+    "country": "United States"
+  },
+  {
+    "iata": "FMH",
+    "icao": "KFMH",
+    "name": "Cape Cod Coast Guard Air Station",
     "country": "United States"
   },
   {
@@ -28215,6 +29055,12 @@
     "iata": "STS",
     "icao": "KSTS",
     "name": "Charles M. Schulz Sonoma County Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "CHS",
+    "icao": "KCHS",
+    "name": "Charleston Air Force Base-International Airport",
     "country": "United States"
   },
   {
@@ -28482,6 +29328,12 @@
     "country": "United States"
   },
   {
+    "iata": "CBM",
+    "icao": "KCBM",
+    "name": "Columbus Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "CSG",
     "icao": "KCSG",
     "name": "Columbus Metropolitan Airport",
@@ -28503,6 +29355,12 @@
     "iata": "USA",
     "icao": "KJQF",
     "name": "Concord-Padgett Regional Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "WSD",
+    "icao": "KWSD",
+    "name": "Condron Army Air Field",
     "country": "United States"
   },
   {
@@ -28563,6 +29421,12 @@
     "iata": "LMT",
     "icao": "KLMT",
     "name": "Crater Lake-Klamath Regional Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "INS",
+    "icao": "KINS",
+    "name": "Creech Air Force Base",
     "country": "United States"
   },
   {
@@ -28683,6 +29547,18 @@
     "iata": "DWH",
     "icao": "KDWH",
     "name": "David Wayne Hooks Memorial Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "DMA",
+    "icao": "KDMA",
+    "name": "Davis Monthan Air Force Base",
+    "country": "United States"
+  },
+  {
+    "iata": "DAA",
+    "icao": "KDAA",
+    "name": "Davison Army Air Field",
     "country": "United States"
   },
   {
@@ -28842,6 +29718,12 @@
     "country": "United States"
   },
   {
+    "iata": "MGE",
+    "icao": "KMGE",
+    "name": "Dobbins Air Reserve Base",
+    "country": "United States"
+  },
+  {
     "iata": "DDC",
     "icao": "KDDC",
     "name": "Dodge City Regional Airport",
@@ -28863,6 +29745,12 @@
     "iata": "DGL",
     "icao": "KDGL",
     "name": "Douglas Municipal Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "DOV",
+    "icao": "KDOV",
+    "name": "Dover Air Force Base",
     "country": "United States"
   },
   {
@@ -28938,6 +29826,12 @@
     "country": "United States"
   },
   {
+    "iata": "DYS",
+    "icao": "KDYS",
+    "name": "Dyess Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "EAA",
     "icao": "PAEG",
     "name": "Eagle Airport",
@@ -28953,6 +29847,12 @@
     "iata": "EGV",
     "icao": "KEGV",
     "name": "Eagle River Union Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "SYA",
+    "icao": "PASY",
+    "name": "Eareckson Air Station",
     "country": "United States"
   },
   {
@@ -29010,6 +29910,12 @@
     "country": "United States"
   },
   {
+    "iata": "EDW",
+    "icao": "KEDW",
+    "name": "Edwards Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "EEK",
     "icao": "PAEE",
     "name": "Eek Airport",
@@ -29019,6 +29925,12 @@
     "iata": "EGX",
     "icao": "PAII",
     "name": "Egegik Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "EIL",
+    "icao": "PAEI",
+    "name": "Eielson Air Force Base",
     "country": "United States"
   },
   {
@@ -29034,6 +29946,12 @@
     "country": "United States"
   },
   {
+    "iata": "NZJ",
+    "icao": "KNZJ",
+    "name": "El Toro Marine Corps Air Station",
+    "country": "United States"
+  },
+  {
     "iata": "ELV",
     "icao": "PAEL",
     "name": "Elfin Cove Seaplane Base",
@@ -29043,6 +29961,12 @@
     "iata": "ELI",
     "icao": "PFEL",
     "name": "Elim Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "ECG",
+    "icao": "KECG",
+    "name": "Elizabeth City Regional Airport & Coast Guard Air Station",
     "country": "United States"
   },
   {
@@ -29073,6 +29997,18 @@
     "iata": "KOA",
     "icao": "PHKO",
     "name": "Ellison Onizuka Kona International At Keahole Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "RCA",
+    "icao": "KRCA",
+    "name": "Ellsworth Air Force Base",
+    "country": "United States"
+  },
+  {
+    "iata": "EDF",
+    "icao": "PAED",
+    "name": "Elmendorf Air Force Base",
     "country": "United States"
   },
   {
@@ -29154,9 +30090,21 @@
     "country": "United States"
   },
   {
+    "iata": "SKA",
+    "icao": "KSKA",
+    "name": "Fairchild Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "MSC",
     "icao": "KFFZ",
     "name": "Falcon Field",
+    "country": "United States"
+  },
+  {
+    "iata": "NFL",
+    "icao": "KNFL",
+    "name": "Fallon Naval Air Station",
     "country": "United States"
   },
   {
@@ -29175,6 +30123,12 @@
     "iata": "FAY",
     "icao": "KFAY",
     "name": "Fayetteville Regional Grannis Field",
+    "country": "United States"
+  },
+  {
+    "iata": "FAF",
+    "icao": "KFAF",
+    "name": "Felker Army Air Field",
     "country": "United States"
   },
   {
@@ -29508,6 +30462,12 @@
     "country": "United States"
   },
   {
+    "iata": "FTK",
+    "icao": "KFTK",
+    "name": "Godman Army Air Field",
+    "country": "United States"
+  },
+  {
     "iata": "GTR",
     "icao": "KGTR",
     "name": "Golden Triangle Regional Airport",
@@ -29523,6 +30483,12 @@
     "iata": "GCN",
     "icao": "KGCN",
     "name": "Grand Canyon National Park Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "RDR",
+    "icao": "KRDR",
+    "name": "Grand Forks Air Force Base",
     "country": "United States"
   },
   {
@@ -29565,6 +30531,12 @@
     "iata": "GNT",
     "icao": "KGNT",
     "name": "Grants-Milan Municipal Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "GRF",
+    "icao": "KGRF",
+    "name": "Gray Army Air Field",
     "country": "United States"
   },
   {
@@ -29649,6 +30621,12 @@
     "iata": "RME",
     "icao": "KRME",
     "name": "Griffiss International Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "GUS",
+    "icao": "KGUS",
+    "name": "Grissom Air Reserve Base",
     "country": "United States"
   },
   {
@@ -29826,6 +30804,12 @@
     "country": "United States"
   },
   {
+    "iata": "FSI",
+    "icao": "KFSI",
+    "name": "Henry Post Army Air Field (Fort Sill)",
+    "country": "United States"
+  },
+  {
     "iata": "TMA",
     "icao": "KTMA",
     "name": "Henry Tift Myers Airport",
@@ -29835,6 +30819,12 @@
     "iata": "HKY",
     "icao": "KHKY",
     "name": "Hickory Regional Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "HIF",
+    "icao": "KHIF",
+    "name": "Hill Air Force Base",
     "country": "United States"
   },
   {
@@ -29862,6 +30852,12 @@
     "country": "United States"
   },
   {
+    "iata": "HMN",
+    "icao": "KHMN",
+    "name": "Holloman Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "HCR",
     "icao": "PAHC",
     "name": "Holy Cross Airport",
@@ -29877,6 +30873,12 @@
     "iata": "HST",
     "icao": "KHST",
     "name": "Homestead ARB Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "HLR",
+    "icao": "KHLR",
+    "name": "Hood Army Air Field",
     "country": "United States"
   },
   {
@@ -29907,6 +30909,12 @@
     "iata": "HUS",
     "icao": "PAHU",
     "name": "Hughes Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "SVN",
+    "icao": "KSVN",
+    "name": "Hunter Army Air Field",
     "country": "United States"
   },
   {
@@ -30087,6 +31095,12 @@
     "iata": "JAX",
     "icao": "KJAX",
     "name": "Jacksonville International Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "NIP",
+    "icao": "KNIP",
+    "name": "Jacksonville Naval Air Station (Towers Field)",
     "country": "United States"
   },
   {
@@ -30288,6 +31302,12 @@
     "country": "United States"
   },
   {
+    "iata": "BIX",
+    "icao": "KBIX",
+    "name": "Keesler Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "ENA",
     "icao": "PAEN",
     "name": "Kenai Municipal Airport",
@@ -30351,6 +31371,12 @@
     "iata": "AKN",
     "icao": "PAKN",
     "name": "King Salmon Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "NQI",
+    "icao": "KNQI",
+    "name": "Kingsville Naval Air Station",
     "country": "United States"
   },
   {
@@ -30486,6 +31512,12 @@
     "country": "United States"
   },
   {
+    "iata": "SKF",
+    "icao": "KSKF",
+    "name": "Lackland Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "FBK",
     "icao": "PAFB",
     "name": "Ladd AAF Airfield",
@@ -30582,6 +31614,12 @@
     "country": "United States"
   },
   {
+    "iata": "LFI",
+    "icao": "KLFI",
+    "name": "Langley Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "LAR",
     "icao": "KLAR",
     "name": "Laramie Regional Airport",
@@ -30633,6 +31671,12 @@
     "iata": "LWC",
     "icao": "KLWC",
     "name": "Lawrence Municipal Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "LSF",
+    "icao": "KLSF",
+    "name": "Lawson Army Air Field (Fort Benning)",
     "country": "United States"
   },
   {
@@ -30690,6 +31734,12 @@
     "country": "United States"
   },
   {
+    "iata": "NLC",
+    "icao": "KNLC",
+    "name": "Lemoore Naval Air Station (Reeves Field) Airport",
+    "country": "United States"
+  },
+  {
     "iata": "LOT",
     "icao": "KLOT",
     "name": "Lewis University Airport",
@@ -30735,6 +31785,12 @@
     "iata": "LDJ",
     "icao": "KLDJ",
     "name": "Linden Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "LRF",
+    "icao": "KLRF",
+    "name": "Little Rock Air Force Base",
     "country": "United States"
   },
   {
@@ -30816,6 +31872,12 @@
     "country": "United States"
   },
   {
+    "iata": "LUF",
+    "icao": "KLUF",
+    "name": "Luke Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "LBT",
     "icao": "KLBT",
     "name": "Lumberton Regional Airport",
@@ -30831,6 +31893,12 @@
     "iata": "MBS",
     "icao": "KMBS",
     "name": "MBS International Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "MCF",
+    "icao": "KMCF",
+    "name": "Mac Dill Air Force Base",
     "country": "United States"
   },
   {
@@ -30960,6 +32028,12 @@
     "country": "United States"
   },
   {
+    "iata": "FRI",
+    "icao": "KFRI",
+    "name": "Marshall Army Air Field",
+    "country": "United States"
+  },
+  {
     "iata": "MLL",
     "icao": "PADM",
     "name": "Marshall Don Hunter Sr Airport",
@@ -31002,6 +32076,12 @@
     "country": "United States"
   },
   {
+    "iata": "MXF",
+    "icao": "KMXF",
+    "name": "Maxwell Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "MLC",
     "icao": "KMLC",
     "name": "Mc Alester Regional Airport",
@@ -31032,6 +32112,12 @@
     "country": "United States"
   },
   {
+    "iata": "IAB",
+    "icao": "KIAB",
+    "name": "Mc Connell Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "MCK",
     "icao": "KMCK",
     "name": "Mc Cook Ben Nelson Regional Airport",
@@ -31044,6 +32130,12 @@
     "country": "United States"
   },
   {
+    "iata": "WRI",
+    "icao": "KWRI",
+    "name": "Mc Guire Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "MYL",
     "icao": "KMYL",
     "name": "McCall Municipal Airport",
@@ -31053,6 +32145,12 @@
     "iata": "LAS",
     "icao": "KLAS",
     "name": "McCarran International Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "TCM",
+    "icao": "KTCM",
+    "name": "McChord Air Force Base",
     "country": "United States"
   },
   {
@@ -31236,9 +32334,21 @@
     "country": "United States"
   },
   {
+    "iata": "MIB",
+    "icao": "KMIB",
+    "name": "Minot Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "MOT",
     "icao": "KMOT",
     "name": "Minot International Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "NKX",
+    "icao": "KNKX",
+    "name": "Miramar Marine Corps Air Station - Mitscher Field",
     "country": "United States"
   },
   {
@@ -31350,6 +32460,12 @@
     "country": "United States"
   },
   {
+    "iata": "VAD",
+    "icao": "KVAD",
+    "name": "Moody Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "SOP",
     "icao": "KSOP",
     "name": "Moore County Airport",
@@ -31374,9 +32490,21 @@
     "country": "United States"
   },
   {
+    "iata": "MUO",
+    "icao": "KMUO",
+    "name": "Mountain Home Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "MOU",
     "icao": "PAMO",
     "name": "Mountain Village Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "MUI",
+    "icao": "KMUI",
+    "name": "Muir Army Air Field (Fort Indiantown Gap) Airport",
     "country": "United States"
   },
   {
@@ -31440,9 +32568,27 @@
     "country": "United States"
   },
   {
+    "iata": "NQX",
+    "icao": "KNQX",
+    "name": "Naval Air Station Key West/Boca Chica Field",
+    "country": "United States"
+  },
+  {
+    "iata": "NRB",
+    "icao": "KNRB",
+    "name": "Naval Station Mayport (Admiral David L. Mcdonald Field)",
+    "country": "United States"
+  },
+  {
     "iata": "EED",
     "icao": "KEED",
     "name": "Needles Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "LSV",
+    "icao": "KLSV",
+    "name": "Nellis Air Force Base",
     "country": "United States"
   },
   {
@@ -31530,6 +32676,12 @@
     "country": "United States"
   },
   {
+    "iata": "IKO",
+    "icao": "PAKO",
+    "name": "Nikolski Air Station",
+    "country": "United States"
+  },
+  {
     "iata": "WTK",
     "icao": "PAWN",
     "name": "Noatak Airport",
@@ -31560,6 +32712,12 @@
     "country": "United States"
   },
   {
+    "iata": "NGU",
+    "icao": "KNGU",
+    "name": "Norfolk Naval Station (Chambers Field)",
+    "country": "United States"
+  },
+  {
     "iata": "SJC",
     "icao": "KSJC",
     "name": "Norman Y. Mineta San Jose International Airport",
@@ -31575,6 +32733,12 @@
     "iata": "CKB",
     "icao": "KCKB",
     "name": "North Central West Virginia Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "NZY",
+    "icao": "KNZY",
+    "name": "North Island Naval Air Station-Halsey Field",
     "country": "United States"
   },
   {
@@ -31698,9 +32862,21 @@
     "country": "United States"
   },
   {
+    "iata": "NTU",
+    "icao": "KNTU",
+    "name": "Oceana Naval Air Station",
+    "country": "United States"
+  },
+  {
     "iata": "CEU",
     "icao": "KCEU",
     "name": "Oconee County Regional Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "OFF",
+    "icao": "KOFF",
+    "name": "Offutt Air Force Base",
     "country": "United States"
   },
   {
@@ -31914,6 +33090,18 @@
     "country": "United States"
   },
   {
+    "iata": "COF",
+    "icao": "KCOF",
+    "name": "Patrick Air Force Base",
+    "country": "United States"
+  },
+  {
+    "iata": "NHK",
+    "icao": "KNHK",
+    "name": "Patuxent River Naval Air Station (Trapnell Field)",
+    "country": "United States"
+  },
+  {
     "iata": "PEQ",
     "icao": "KPEQ",
     "name": "Pecos Municipal Airport",
@@ -31929,6 +33117,12 @@
     "iata": "PMB",
     "icao": "KPMB",
     "name": "Pembina Municipal Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "NPA",
+    "icao": "KNPA",
+    "name": "Pensacola Naval Air Station/Forrest Sherman Field",
     "country": "United States"
   },
   {
@@ -31971,6 +33165,12 @@
     "iata": "TOP",
     "icao": "KTOP",
     "name": "Philip Billard Municipal Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "APG",
+    "icao": "KAPG",
+    "name": "Phillips Army Air Field",
     "country": "United States"
   },
   {
@@ -32079,6 +33279,18 @@
     "iata": "PIZ",
     "icao": "PPIZ",
     "name": "Point Lay LRRS Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "NTD",
+    "icao": "KNTD",
+    "name": "Point Mugu Naval Air Station (Naval Base Ventura Co)",
+    "country": "United States"
+  },
+  {
+    "iata": "POE",
+    "icao": "KPOE",
+    "name": "Polk Army Air Field",
     "country": "United States"
   },
   {
@@ -32280,6 +33492,12 @@
     "country": "United States"
   },
   {
+    "iata": "RND",
+    "icao": "KRND",
+    "name": "Randolph Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "HIB",
     "icao": "KHIB",
     "name": "Range Regional Airport",
@@ -32325,6 +33543,12 @@
     "iata": "RDD",
     "icao": "KRDD",
     "name": "Redding Municipal Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "HUA",
+    "icao": "KHUA",
+    "name": "Redstone Army Air Field",
     "country": "United States"
   },
   {
@@ -32424,9 +33648,21 @@
     "country": "United States"
   },
   {
+    "iata": "GRK",
+    "icao": "KGRK",
+    "name": "Robert Gray  Army Air Field Airport",
+    "country": "United States"
+  },
+  {
     "iata": "RDM",
     "icao": "KRDM",
     "name": "Roberts Field",
+    "country": "United States"
+  },
+  {
+    "iata": "WRB",
+    "icao": "KWRB",
+    "name": "Robins Air Force Base",
     "country": "United States"
   },
   {
@@ -32748,9 +33984,21 @@
     "country": "United States"
   },
   {
+    "iata": "MTC",
+    "icao": "KMTC",
+    "name": "Selfridge Air National Guard Base Airport",
+    "country": "United States"
+  },
+  {
     "iata": "SWD",
     "icao": "PAWD",
     "name": "Seward Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "GSB",
+    "icao": "KGSB",
+    "name": "Seymour Johnson Air Force Base",
     "country": "United States"
   },
   {
@@ -32766,6 +34014,12 @@
     "country": "United States"
   },
   {
+    "iata": "SSC",
+    "icao": "KSSC",
+    "name": "Shaw Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "SBM",
     "icao": "KSBM",
     "name": "Sheboygan County Memorial Airport",
@@ -32778,9 +34032,21 @@
     "country": "United States"
   },
   {
+    "iata": "SPS",
+    "icao": "KSPS",
+    "name": "Sheppard Air Force Base-Wichita Falls Municipal Airport",
+    "country": "United States"
+  },
+  {
     "iata": "SHR",
     "icao": "KSHR",
     "name": "Sheridan County Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "FLV",
+    "icao": "KFLV",
+    "name": "Sherman Army Air Field",
     "country": "United States"
   },
   {
@@ -32838,9 +34104,21 @@
     "country": "United States"
   },
   {
+    "iata": "FHU",
+    "icao": "KFHU",
+    "name": "Sierra Vista Municipal Libby Army Air Field",
+    "country": "United States"
+  },
+  {
     "iata": "SIK",
     "icao": "KSIK",
     "name": "Sikeston Memorial Municipal Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "FBG",
+    "icao": "KFBG",
+    "name": "Simmons Army Air Field",
     "country": "United States"
   },
   {
@@ -33246,6 +34524,12 @@
     "country": "United States"
   },
   {
+    "iata": "TZR",
+    "icao": "LHTA",
+    "name": "Taszár Air Base",
+    "country": "United States"
+  },
+  {
     "iata": "TLJ",
     "icao": "PATL",
     "name": "Tatalina LRRS Airport",
@@ -33348,6 +34632,12 @@
     "country": "United States"
   },
   {
+    "iata": "TIK",
+    "icao": "KTIK",
+    "name": "Tinker Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "FME",
     "icao": "KFME",
     "name": "Tipton Airport",
@@ -33399,6 +34689,12 @@
     "iata": "FOE",
     "icao": "KFOE",
     "name": "Topeka Regional Airport - Forbes Field",
+    "country": "United States"
+  },
+  {
+    "iata": "SUU",
+    "icao": "KSUU",
+    "name": "Travis Air Force Base",
     "country": "United States"
   },
   {
@@ -33510,6 +34806,12 @@
     "country": "United States"
   },
   {
+    "iata": "PAM",
+    "icao": "KPAM",
+    "name": "Tyndall Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "UUK",
     "icao": "PAKU",
     "name": "Ugnu-Kuparuk Airport",
@@ -33579,6 +34881,18 @@
     "iata": "VNY",
     "icao": "KVNY",
     "name": "Van Nuys Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "END",
+    "icao": "KEND",
+    "name": "Vance Air Force Base",
+    "country": "United States"
+  },
+  {
+    "iata": "VBG",
+    "icao": "KVBG",
+    "name": "Vandenberg Air Force Base",
     "country": "United States"
   },
   {
@@ -33840,9 +35154,21 @@
     "country": "United States"
   },
   {
+    "iata": "HHI",
+    "icao": "PHHI",
+    "name": "Wheeler Army Airfield",
+    "country": "United States"
+  },
+  {
     "iata": "HLG",
     "icao": "KHLG",
     "name": "Wheeling Ohio County Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "NUW",
+    "icao": "KNUW",
+    "name": "Whidbey Island Naval Air Station (Ault Field)",
     "country": "United States"
   },
   {
@@ -33852,9 +35178,21 @@
     "country": "United States"
   },
   {
+    "iata": "SZL",
+    "icao": "KSZL",
+    "name": "Whiteman Air Force Base",
+    "country": "United States"
+  },
+  {
     "iata": "WHP",
     "icao": "KWHP",
     "name": "Whiteman Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "NSE",
+    "icao": "KNSE",
+    "name": "Whiting Field Naval Air Station - North",
     "country": "United States"
   },
   {
@@ -33933,6 +35271,12 @@
     "iata": "LNN",
     "icao": "KLNN",
     "name": "Willoughby Lost Nation Municipal Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "NXX",
+    "icao": "KNXX",
+    "name": "Willow Grove Naval Air Station/Joint Reserve Base",
     "country": "United States"
   },
   {
@@ -34029,6 +35373,12 @@
     "iata": "LIY",
     "icao": "KLHW",
     "name": "Wright AAF (Fort Stewart)/Midcoast Regional Airport",
+    "country": "United States"
+  },
+  {
+    "iata": "FFO",
+    "icao": "KFFO",
+    "name": "Wright-Patterson Air Force Base",
     "country": "United States"
   },
   {
@@ -34776,6 +36126,12 @@
     "country": "Vietnam"
   },
   {
+    "iata": "NHA",
+    "icao": "VVNT",
+    "name": "Nha Trang Air Base",
+    "country": "Vietnam"
+  },
+  {
     "iata": "HAN",
     "icao": "VVNB",
     "name": "Noi Bai International Airport",
@@ -35061,6 +36417,12 @@
     "iata": "HRE",
     "icao": "FVHA",
     "name": "Robert Gabriel Mugabe International Airport",
+    "country": "Zimbabwe"
+  },
+  {
+    "iata": "GWE",
+    "icao": "FVTL",
+    "name": "Thornhill Air Base",
     "country": "Zimbabwe"
   },
   {

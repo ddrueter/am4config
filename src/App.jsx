@@ -1,14 +1,19 @@
 // App.jsx
 import { useState, useMemo, useEffect } from "react";
-import Papa from "papaparse";
+// import Papa from "papaparse";
 import airports from "./data/airports.json";
 import aircraftData from "./data/aircraft.json";
 import "./index.css";
 
-const KEY_CSV = "am4_demand_csv";
-const KEY_PRESETS = "am4_demand_presets";
-const loadJSON = (k, f) => { try { return JSON.parse(localStorage.getItem(k)) || f; } catch { return f; } };
-const saveJSON = (k, d) => localStorage.setItem(k, JSON.stringify(d));
+// const KEY_CSV = "am4_demand_csv";
+// const KEY_PRESETS = "am4_demand_presets";
+// const loadJSON = (k, f) => { try { return JSON.parse(localStorage.getItem(k)) || f; } catch { return f; } };
+// const saveJSON = (k, d) => localStorage.setItem(k, JSON.stringify(d));
+import { ref, get, set } from "firebase/database";
+import { db } from "./firebase";
+
+// Helper to build an order‑independent key
+const makeKey = (a, b) => [a, b].sort().join("_");
 
 // Number input with blue header + white input styling, allows blank
 const NumberInput = ({ label, value, onChange }) => (
@@ -44,8 +49,7 @@ export default function App() {
   const [f, setF] = useState("");
   const [model, setModel] = useState("");
   const [showAdvanced, setShowAdvanced] = useState(false);
-  const [csvData, setCsvData] = useState(loadJSON(KEY_CSV, []));
-  const [presets, setPresets] = useState(loadJSON(KEY_PRESETS, {}));
+  const [presets, setPresets] = useState({});
   const [solution, setSolution] = useState(null);
 
   // derive number of seats
@@ -70,12 +74,22 @@ export default function App() {
     [arrCountry]
   );
 
-  // autofill from presets
+  // Load shared presets once on mount
   useEffect(() => {
-    if (!depAirport || !arrAirport) return;
-    const keyA = `${depAirport}/${arrAirport}`;
-    const keyB = `${arrAirport}/${depAirport}`;
-    const p = presets[keyA] || presets[keyB];
+    get(ref(db, "presets"))
+      .then(snapshot => {
+        const shared = snapshot.val() || {};
+        // store directly as { "FRA_MUC": { y,j,f }, … }
+        setPresets(shared);
+      })
+      .catch(console.error);
+  }, []);
+
+  // Autofill demands when airports change
+  useEffect(() => {
+    if (!depAirport || !arrAirport || !presets) return;
+    const key = makeKey(depAirport, arrAirport);
+    const p = presets[key];
     if (p) {
       setY(p.y.toString());
       setJ(p.j.toString());
@@ -83,43 +97,12 @@ export default function App() {
     }
   }, [depAirport, arrAirport, presets]);
 
-  // autofill from CSV if no preset
-  useEffect(() => {
-    if (!depAirport || !arrAirport || !csvData.length) return;
-    const entry = csvData.find(r => {
-      const [rDep] = (r["Departure Airport"] || "").split(" /");
-      const [rArr] = (r["Arrival Airport"] || "").split(" /");
-      return (
-        (rDep === depAirport && rArr === arrAirport) ||
-        (rDep === arrAirport && rArr === depAirport)
-      );
-    });
-    if (entry) {
-      setY((entry["Y Demand"] ?? entry.Y ?? 0).toString());
-      setJ((entry["J Demand"] ?? entry.J ?? 0).toString());
-      setF((entry["F Demand"] ?? entry.F ?? 0).toString());
-    }
-  }, [depAirport, arrAirport, csvData]);
-
   // swap handler
   const swap = () => {
     setDepCountry(arrCountry);
     setArrCountry(depCountry);
     setDepAirport(arrAirport);
     setArrAirport(depAirport);
-  };
-
-  // CSV upload
-  const handleCsv = e => {
-    const file = e.target.files[0];
-    if (!file) return;
-    Papa.parse(file, {
-      header: true,
-      complete: res => {
-        setCsvData(res.data);
-        saveJSON(KEY_CSV, res.data);
-      }
-    });
   };
 
   // solve logic
@@ -141,10 +124,12 @@ export default function App() {
     const fPer = fRel * k;
     const flights = Math.ceil(total / (yPer + jPer + fPer));
     setSolution({ flights, yPer, jPer, fPer });
-    const key = `${depAirport}/${arrAirport}`;
-    const next = { ...presets, [key]: { y: yNum, j: jNum, f: fNum } };
-    setPresets(next);
-    saveJSON(KEY_PRESETS, next);
+    const key = makeKey(depAirport, arrAirport);
+    // const next = { ...presets, [key]: { y: yNum, j: jNum, f: fNum } };
+    set(ref(db, `presets/${key}`), { y: yNum, j: jNum, f: fNum })
+      .catch(console.error);
+    // setPresets(next);
+    // saveJSON(KEY_PRESETS, next);
   };
 
   const displayModel = model ? `${model} (${seats})` : "";
@@ -258,9 +243,11 @@ export default function App() {
           <button onClick={() => setShowAdvanced(!showAdvanced)} className="btn btn-settings">⚙️</button>
         </div>
 
-        {/* CSV Upload */}
+        {/* Advanced Options (Credits, etc) */}
         {showAdvanced && (
-          <input type="file" accept=".csv" onChange={handleCsv} className="csv-upload" />
+          <div className="advanced-options">
+            <p className="credits">Made by ChatGPT :D</p>
+          </div>
         )}
 
         {/* Results */}
@@ -271,7 +258,7 @@ export default function App() {
               <Stat label="J-class Seats" value={solution.jPer.toFixed(1)} />
               <Stat label="F-class Seats" value={solution.fPer.toFixed(1)} />
             </div>
-            <div className="results-total">Total flights per day: {solution.flights}</div>
+            <div className="results-total">Total flights per day: {solution.flights.toFixed(1)}</div>
           </div>
         )}
       </section>
