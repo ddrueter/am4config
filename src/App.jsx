@@ -122,7 +122,7 @@ export default function App() {
     const yPer = yRel * k;
     const jPer = jRel * k;
     const fPer = fRel * k;
-    const flights = Math.ceil(total / (yPer + jPer + fPer));
+    const flights = total / (yPer + jPer + fPer);
     setSolution({ flights, yPer, jPer, fPer });
     const key = makeKey(depAirport, arrAirport);
     // const next = { ...presets, [key]: { y: yNum, j: jNum, f: fNum } };
